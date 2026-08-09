@@ -1,7 +1,7 @@
 /**
  * @Kotdesigner
  *
- * Senior Software Architect & AI Integration Engineer.
+ * Senior Engineer, Software Architect & AI Integration Engineer.
  * Turning absolute spaghetti "Kot" (Code) into clean, scalable enterprise solutions.
  * Specializing in full-stack architecture, seamless LLM integration, and neural network pipelines.
  *
