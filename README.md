@@ -3,7 +3,7 @@
 Engineer moving into **data science and software engineering** – with ten years of hands-on experience in technical inspection, certification and vehicle approval.
 
 - M.Sc. candidate in Computer Science at FernUniversität in Hagen, specialisation *Intelligent Systems*
-- Team lead for special vehicle approvals (§ 19 / § 21 StVZO) at GTÜ in Kiel, Germany
+- Team lead for special vehicle approvals; Kiel, Germany
 - I build tools that turn messy technical data into something usable – from SQL-based document management to process automation
 
 **Stack:** Python · SQL · C# / .NET · Java · JavaScript · GitHub Actions  
