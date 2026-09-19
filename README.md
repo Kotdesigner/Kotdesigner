@@ -17,4 +17,4 @@ Engineer moving into **data science and software engineering** – with ten year
 | [AI Folder Markdowns](https://github.com/Kotdesigner/AIFOLDERMARKDOWNS) | Python CLI that scaffolds project workspaces and context files for AI-assisted development |
 | [Spotify Release Radar Copier](https://github.com/Kotdesigner/spotify-release-radar-copier) | Copies missing Release Radar tracks into your own playlist via GitHub Actions |
 
-[LinkedIn](https://www.linkedin.com/in/steven-brandenburg-0a467b134)
+[LinkedIn](https://www.linkedin.com/in/steven-brandenburg)
