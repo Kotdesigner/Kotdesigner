@@ -1,19 +1,20 @@
-/**
- * @Kotdesigner
- *
- * Senior Engineer, Software Architect & AI Integration Engineer.
- * Turning absolute spaghetti "Kot" (Code) into clean, scalable enterprise solutions.
- * Specializing in full-stack architecture, seamless LLM integration, and neural network pipelines.
- *
- * Current Thread : Building autonomous AI agents, fine-tuning LLM workflows, and refactoring legacy messes.
- * Collaboration  : Intelligent software solutions, open-source AI tools, and high-performance backend systems.
- * Ping Interface : `kotdesigner@localhost` || Open an issue or submit a pull request.
- *
- * Status: Refactoring shitty code into artificial intelligence...
- */
+## Steven Brandenburg
 
-<!---
-Kotdesigner/Kotdesigner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-ggg
+Engineer moving into **data science and software engineering** – with ten years of hands-on experience in technical inspection, certification and vehicle approval.
+
+- M.Sc. candidate in Computer Science at FernUniversität in Hagen, specialisation *Intelligent Systems*
+- Team lead for special vehicle approvals (§ 19 / § 21 StVZO) at GTÜ in Kiel, Germany
+- I build tools that turn messy technical data into something usable – from SQL-based document management to process automation
+
+**Stack:** Python · SQL · C# / .NET · Java · JavaScript · GitHub Actions  
+**Interests:** machine learning · data engineering · automation · LED and motion systems
+
+### Selected projects
+
+| Project | What it does |
+|---|---|
+| [Playlist Artist Follower for Spotify](https://github.com/Kotdesigner/Playlist_Artist_Follower_for_Spotify) | Cross-platform desktop app and GitHub Actions automation – OAuth PKCE login, OS credential store, tests, CI and release builds |
+| [AI Folder Markdowns](https://github.com/Kotdesigner/AIFOLDERMARKDOWNS) | Python CLI that scaffolds project workspaces and context files for AI-assisted development |
+| [Spotify Release Radar Copier](https://github.com/Kotdesigner/spotify-release-radar-copier) | Copies missing Release Radar tracks into your own playlist via GitHub Actions |
+
+[LinkedIn](https://www.linkedin.com/in/steven-brandenburg-0a467b134)
