@@ -1,4 +1,4 @@
-## Steven Brandenburg
+## KotDesigner
 
 Engineer moving into **data science and software engineering** – with ten years of hands-on experience in technical inspection, certification and vehicle approval.
 
